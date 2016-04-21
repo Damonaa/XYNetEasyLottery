@@ -1,1 +1,2 @@
 # XYNetEasyLottery
+学习网易彩票的界面进行搭建，主要完善设置界面的tableView设置
